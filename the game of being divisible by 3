@@ -1,0 +1,8 @@
+sayi=int(input("Bir sayi giriniz"))
+
+kalan=sayi%3
+
+if (kalan==0):
+    print("3 ile tam bölünebilir.")
+else:
+    print("3 e tam bölünemez.")
