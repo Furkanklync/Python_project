@@ -1,0 +1,8 @@
+# Python_project
+Python codes
+num = int(input("Bir sayi, girin: "))
+
+if num % 2 == 0:
+    print("Çift sayi")
+else:
+    print("Tek sayi")
